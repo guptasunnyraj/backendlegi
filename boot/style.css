@@ -1,0 +1,142 @@
+.navbar-custom{
+	margin-bottom: 0;
+    border-radius: 0px;
+    border-width: 0px;
+    font-family: 'Open Sans';
+    background-color: #232C3C;
+    color: white;
+}
+
+
+.navbar-custom a {
+    color: #fff;
+}
+
+.form-group{
+	border: solid;
+}
+
+.col1{
+	background-color: #EEECED;
+}
+
+.col1 ul{
+	list-style: none;
+	padding-left: 0;
+}
+.col1 li {
+
+	padding-top:7%;
+	padding-bottom:2%;
+}
+
+.col1 li button{
+	width: 100%;
+}
+
+
+
+.form-group label{
+	padding-top:2.5%;
+	padding-bottom:2.5%;
+}
+
+.col2{
+	paddding-left:0;
+	padding-top:3.5%;
+	padding-bottom:1.5%;
+}
+
+
+.col3{
+	paddding-left:0;
+	padding-top:2.5%;
+	padding-bottom:2.5%;
+}
+
+.maincol{
+	overflow-y: scroll;
+}
+
+.profile > div{
+	padding: 0;
+}
+
+.im{
+	width:100%;
+	height:20%;
+	background-image: url('images/images.jpg');
+	color:white;
+	font-family: 'Open Sans';
+	 opacity: 0.85;
+    filter: alpha(opacity=40);  
+}
+
+.name{
+	/*font-size:300%;*/
+
+}
+
+.next{
+	/*font-size:150%;*/
+}
+
+.name3{
+	/*font-size: 80%;*/
+}
+
+.layer {
+    background-color: rgba(54,86,150, 0.82);
+    width: 100%;
+    height: 100%;
+}
+
+.glyphicon-map-marker,.glyphicon-signal,.glyphicon-user{
+	color:#FB795D;
+}
+.line{
+	position: relative;
+	display:block;
+    border:none;
+    color:white;
+    height:1px;
+    background:black;
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 350, from(#7C808B), to(#353D50));
+}
+.star-rating {
+  line-height:32px;
+  font-size:1.25em;
+  cursor: pointer;
+}
+.tab > a{
+	color:black;
+}
+
+.tab > a.tabb{
+	text-decoration: underline;
+	color: black;
+}
+
+.uline{
+	border-bottom:2px solid #9D9B9E;
+	padding-top: 20px;
+	margin-bottom: 20px;
+}
+
+.box{
+	border:solid;
+}
+
+.review{
+	padding-top: 20px;
+	margin-bottom: 20px;
+}
+.imgrev{
+	width:70%;
+	height:50%;
+	padding: 0;
+}
+
+.inp > .form-control{
+	padding: 20px;
+}
